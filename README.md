@@ -1,12 +1,13 @@
-# sams
+# SAMS (Student Attendance Management System)
 
-A new Flutter project.
+Sams mark attendance of the students in Universities and calculate the subject purcentage also it can generate reports in pdf. Sams fully functional and connected with firebase database.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
+![alt text](https://drive.google.com/file/d/1wY2GE_-x4PiboOmSabSUM-XELniT82SW/view?usp=share_link)
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
